@@ -73,4 +73,3 @@ source("03_regression/01_logistic_regression.R")
 ## 참고
 
 - 원시 데이터(`data.csv`)는 저작권 및 개인정보 보호를 위해 저장소에 포함되지 않습니다.
-- 국민건강영양조사 데이터는 [질병관리청 홈페이지](https://knhanes.kdca.go.kr)에서 신청 후 이용 가능합니다.
